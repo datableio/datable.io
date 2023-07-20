@@ -1,1 +1,3 @@
-# getdatable.io
+# datable.io
+
+Splash page repo
